@@ -1,38 +1,29 @@
-<<<<<<< HEAD
 
-<div style="font-family: monospace; background-color: #282c34; color: white; padding: 20px; border-radius: 10px; max-width: 400px;">
-  <div style="text-align: center;">
-    <!-- Add your SVG here -->
-    <img src="./your-image.svg" alt="Your Image" width="100" height="100" />
-  </div>
-  <pre>
-        aryan@coder25th
-┌──────────────────────────────────────────────┐
-​ OS : Aryan
-​ Uptime : 21 years
-​ Frameworks: React, Next.js
-​ Skills: Web Development, Cyber Security
-​ Kernel : NERD-DEV 3.14
-​ Languages: JS,TS,C,C++,JAVA,KOTLIN,REACT.JS
-└──────────────────────────────────────────────┘
+  <!-- Image Section -->
+<!--   <div style="flex-shrink: 0;">
+    <img src="./arch.svg" alt="Your Image" width="100" height="100" />
+  </div> -->
+<pre style="font-family: monospace; background-color: #282c34; color: white; padding: 20px; border-radius: 10px; max-width: 300px;align="center">
+  <!-- Text Section -->
+  <p align="center">
+  <img src="./arch.svg" alt="Your Image" width="100" height="100" />
+</p>
+
+
+                                                      aryan@coder25th
+                                     ┌──────────────────────────────────────────────┐
+  ​                                    OS : Aryan
+  ​                                    Uptime : 21 years
+  ​                                    Frameworks: React, Next.js
+  ​                                    Skills: Web Development, Cyber Security
+  ​                                    Kernel : NERD-DEV 3.14
+                                      Languages: JS,TS,C,C++,JAVA,KOTLIN,REACT.JS
+                                     └──────────────────────────────────────────────┘
+                                     arch in ~
+                                     λ echo "Stay Determined!"
 </pre>
-</div>
-                         `-.
-=======
-           .  ​ aryan@coder25th
-          .c.           ┌──────────────────────────────────────────────┐
-         .ccc.           ​ OS : Aryan
-        .lllll.          ​ Uptime : 21 years
-       ..;'olll.         ​ Frameworks: React, Next.js
-      .dolllcccl.        ​ Skills: Web Development, Cyber Security
-     .lcc'   'ccc.       ​ Kernel : NERD-DEV 3.14
-    .ccc'     'cc:.      ​ Languages: JS,TS,C,C++,JAVA,KOTLIN,REACT.JS
-   .cccc'     'c:;..    └──────────────────────────────────────────────┘
-  ."'             '".     A R Y A N   火 
->>>>>>> ebdc4b5fc105e1abfcb8b7d8e1b46305acfa18d5
 
-arch in ~
-λ echo "Stay Determined!"
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
