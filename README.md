@@ -10,7 +10,7 @@
 </p>
 
 
-                                                      aryan@coder25th
+                                                  aryan@coder25th
                                      ┌──────────────────────────────────────────────┐
   ​                                    OS : Aryan
   ​                                    Uptime : 21 years
