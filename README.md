@@ -3,7 +3,7 @@
 <!--   <div style="flex-shrink: 0;">
     <img src="./arch.svg" alt="Your Image" width="100" height="100" />
   </div> -->
-<pre style="font-family: monospace; background-color: #282c34; color: white; padding: 20px; border-radius: 10px; max-width: 300px;align="center">
+<pre style="font-family: monospace; background-color: #282c34; color: white; padding: 20px; border-radius: 10px; max-width: 600px;align="center">
   <!-- Text Section -->
   <p align="center">
   <img src="./arch.svg" alt="Your Image" width="100" height="100" />
