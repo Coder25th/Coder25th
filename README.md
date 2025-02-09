@@ -17,7 +17,8 @@
   ​                                    Frameworks: React, Next.js
   ​                                    Skills: Web Development, Cyber Security
   ​                                    Kernel : NERD-DEV 3.14
-                                      Languages: JS,TS,C,C++,JAVA,KOTLIN,REACT.JS
+                                      Languages: JS,TS,C,C++,JAVA,KOTLIN
+                                      Libraries & framework: REACT.JS,NEXT.JS
                                      └──────────────────────────────────────────────┘
                                      arch in ~
                                      λ echo "Stay Determined!"
